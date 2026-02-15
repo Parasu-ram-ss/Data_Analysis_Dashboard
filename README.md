@@ -67,6 +67,10 @@ Overview Page – Displays overall KPIs, shipment trends, and revenue summary.
 
 • Regional Insights – Analyzes shipment distribution and performance by region.
 
+![Uploading Screenshot 2026-02-15 114900.png…]()
+
+
+
 
 <a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics%20Analysis%20Dashboard.pbix">PowerBi File</a>
 
