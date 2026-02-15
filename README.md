@@ -16,3 +16,6 @@ The Logistics Analysis Dashboard provides a comprehensive and interactive soluti
 <a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics_Analysis_Dashboard_Project_Report.docx">Project Overview Details</a>
 
 
+# Power BI Project File & Business Requirements 
+
+
