@@ -10,5 +10,6 @@ The Logistics Analysis Dashboard project focuses on analyzing shipment and suppl
 
 # Project Overview
 
-<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/tree/main">dataset</a>
+<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics%20Analysis%20Dashboard.pbix">Power Bi File</a>
+
 
