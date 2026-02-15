@@ -10,6 +10,9 @@ The Logistics Analysis Dashboard project focuses on analyzing shipment and suppl
 
 # Project Overview
 
+The Logistics Analysis Dashboard provides a comprehensive and interactive solution for monitoring logistics performance. It supports management in making informed decisions to enhance operational efficiency and optimize supply chain performance.
+
+
 <a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics%20Analysis%20Dashboard.pbix">Power Bi File</a>
 
 
